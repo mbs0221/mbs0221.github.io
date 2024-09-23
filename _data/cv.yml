@@ -69,9 +69,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/mbs0221/Multitask-Learning">Multitask-Learning</a>
+      year: 2019-now
+      description: Awesome Multitask Learning Resources.
 
 - title: Honors and Awards
   type: time_table
@@ -89,14 +89,13 @@
   contents:
     - title: Cybersecurity.
       items:
-        - Description 1.
-        - Description 2.
+        - Confidential Computing.
+        - Federated Learning.
     - title: Artificial Intelligence.
       items:
-        - Description 1.
-        - Description 2.
+        - Multi-task learning.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Badminton, Swimming, etc.
