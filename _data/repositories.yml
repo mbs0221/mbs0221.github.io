@@ -4,4 +4,5 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - mbs0221/Multitask-Learning
   - mbs0221/dblp_crawler
