@@ -31,6 +31,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+    - title: Ph.D.
+      institution: University of Chinese Academy of Sciences, Beijing, China
+      year: 2025
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
@@ -48,6 +58,10 @@
     - title: Teaching Assistant of Security Chips
       institution: University of Chinese Academy of Sciences, Beijing, China
       year: 2021 - 2022
+
+    - title: Teaching Assistant of Probability and Statistics
+      institution: China Agricultural University
+      year: 2017 - 2018
 
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
