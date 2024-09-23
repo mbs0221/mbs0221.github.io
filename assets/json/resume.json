@@ -50,7 +50,7 @@
       "institution": "University of Chinese Academy of Sciences, Beijing, China",
       "location": "Beijing, China",
       "url": "https://www.ucas.edu.cn/",
-      "area": "Computer Science",
+      "area": "Cybersecurity",
       "studyType": "Ph.D.",
       "startDate": "2019-09-01",
       "endDate": "2025-06-23",
@@ -157,6 +157,14 @@
     }
   ],
   "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C/C++/C#/Java/JavaScript/Python/Scala/Rust/Matlab",
+      ]
+    },
     {
       "name": "Physics",
       "level": "Master",
