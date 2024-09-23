@@ -11,26 +11,6 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.E.
-      institution: Beijing University of Technology, Beijing, China
-      year: 2017
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: M.E.
-      institution: China Agricultural University, Beijing, China
-      year: 2019
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Ph.D.
       institution: University of Chinese Academy of Sciences, Beijing, China
       year: 2025
@@ -41,6 +21,29 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+
+    - title: M.E.
+      institution: China Agricultural University, Beijing, China
+      year: 2019
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+
+    - title: B.E.
+      institution: Beijing University of Technology, Beijing, China
+      year: 2017
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
