@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Benshan Mei",
+    "label": "Ph.D.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "meibenshan@iie.com",
+    "phone": "(+86) 188-0018-4976",
+    "url": "https://mbs0221.github.io/mbs0221/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "mbs0221",
+        "url": "https://x.com/mbs0221"
       }
     ]
   },
@@ -47,13 +47,35 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Chinese Academy of Sciences, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://www.ucas.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2019-09-01",
+      "endDate": "2025-06-23",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "China Agricultural University, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://www.cau.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "M.E.",
+      "startDate": "2017-09-01",
+      "endDate": "2019-06-23",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Beijing University of Technology, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://www.bjut.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "B.E.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-23",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
