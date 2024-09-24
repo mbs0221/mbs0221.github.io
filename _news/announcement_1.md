@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new paper on secure key management with encrypted virtualizarion is accepted to SciSec 2024. 
+A new paper on secure key management with encrypted virtualization is accepted to SciSec 2024.
