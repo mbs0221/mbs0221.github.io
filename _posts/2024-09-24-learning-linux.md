@@ -1,8 +1,8 @@
 ---
 layout: post
 title: a post with formatting and links
-date: 2024-9-24 23:19:41
-description: march & april, looking forward to summer
+date: 2024-09-24 23:19:41
+description: Notes on learning linux
 tags: formatting links
 categories: sample-posts
 ---
