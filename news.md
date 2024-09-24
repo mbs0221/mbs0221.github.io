@@ -1,1 +1,0 @@
-A new paper is accepted to ICICS 2024. We propose Cabin, a framework for confining untrusted applications within CVM.
