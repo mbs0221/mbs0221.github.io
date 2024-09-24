@@ -1,0 +1,1 @@
+A new paper on secure key management with encrypted virtualizarion is accepted to SciSec 2024. 
