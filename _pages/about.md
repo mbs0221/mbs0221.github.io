@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+86 18800184976</p>
     <p>19 Shucun Road</p>
     <p>Beijing, Beijing 100193</p>
 
@@ -22,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically. -->
 
-Benshan Mei is an Ph.D. student at Institute of Information Engineering (IIE), CAS. His research interests now focus on system security with the help of hardware features, such as Intel MPK, as well as Confidential Computing (e.g., AMD SEV-SNP, Intel TDX, ARM CCA). Ongoing projects also include hardware-software co-design to support system security. Please find the cv here: in [English](/assets/pdf/CV - EN.pdf), [中文](/assets/pdf/CV - zh_CN.pdf).
+I am an Ph.D. student at the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). I obtained my M.D. in Computer Science from China Agricultural University (CAU) in 2019, and my bachelor in Computer Science from Beijing University of Technology (BJUT) in 2017. My research interests during the past years focus on hardware-assited system security, such as Intel MPK, as well as Confidential Computing (e.g., AMD SEV-SNP, Intel TDX, ARM CCA). Ongoing projects also include hardware-software co-design to support system security. Please find the cv here: in [English](/assets/pdf/CV - EN.pdf), [中文](/assets/pdf/CV - zh_CN.pdf).
