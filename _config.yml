@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Benshan Mei (梅本山)"
-  avatar           : "benshan.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/benshan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD graduated from the State Key Laboratory of Cyberspace Security Defense (SKLCSD), Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS), China."
   location         : "Beijing, China"
   email            : mbs2021@163.com
