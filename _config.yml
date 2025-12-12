@@ -174,7 +174,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/mbs0221"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -184,7 +184,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
