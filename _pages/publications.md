@@ -7,7 +7,7 @@ permalink: /publications/
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences and journals in computer security and artificial intelligence.
 
-Publications at Conferences and Journals (7 papers): ICICS ('24), TrustCom ('25), SciSec ('24), KBS ('20), Neurocomputing ('19), NCAA ('20)
+Publications at Conferences and Journals (7 papers): TrustCom ('25), NDSS ('25), ICICS ('24), SciSec ('24), KBS ('20), Neurocomputing ('19), NCAA ('20)
 
 - <sub> [TrustCom 2025] **VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs** <br/>
   Benshan Mei, Wenhao Wang, Dongdai Lin <br/>
