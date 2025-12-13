@@ -22,6 +22,13 @@ I have a diverse technical background, starting with **Android and web developme
 🔹 **Confidential Computing** – CVM security, TEE, virtualization security  
 🔹 **AI Security & Privacy** – federated learning, adversarial ML, secure AI training & inference  
 
+## Services
+
+- **Reviewer**
+  - Engineering Applications of Artificial Intelligence (EAAI)
+  - Knowledge-Based Systems (KBS)
+
+
 ## Teaching
 
 - Security Chips (UCAS) – Teaching Assistant, Fall 2022
