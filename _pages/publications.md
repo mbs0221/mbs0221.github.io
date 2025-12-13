@@ -9,9 +9,6 @@ In the past few years, I have been dedicating my efforts to publish papers on to
 
 Publications at Conferences and Journals (7 papers): ICICS ('24), TrustCom ('25), SciSec ('24), KBS ('20), Neurocomputing ('19), NCAA ('20)
 
-
-<!-- {% include base_path %} -->
-
 - <sub> [TrustCom 2025] **VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs** <br/>
   Benshan Mei, Wenhao Wang, Dongdai Lin <br/>
   2025 IEEE 24rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI]
@@ -19,7 +16,6 @@ Publications at Conferences and Journals (7 papers): ICICS ('24), TrustCom ('25)
 - <sub> [NDSS 2025] **The Road to Trust: Building Enclaves within Confidential VMs** <br/>
   Wenhao Wang, Linke Song, Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou <br/>
   Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A, EI] <br/>
-
 
 - <sub> [ICICS 2024] **Cabin: Confining Untrusted Programs within Confidential VMs** <br/>
   Benshan Mei, Saisai Xia, Wenhao Wang, Dongdai Lin <br/>
