@@ -2,7 +2,7 @@
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
-author_profile: true
+# author_profile: true
 ---
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences and journals in computer security and artificial intelligence.
