@@ -8,7 +8,7 @@ redirect_from:
   - "/wordpress/index.html"
 ---
 
-I am a PhD graduated from the State Key Laboratory of Cyberspace Security Defense (SKLCSD), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
+I am working as a Postdoc Researcher at Shanghai Jiao Tong University, where I am fortunate to work with [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/zh/pub/members/haibo_chen/) and [Prof. Yubin Xia](https://ipads.se.sjtu.edu.cn/zh/pub/members/yubin_xia/). I received my Ph.D. degree in June 2025 from the State Key Laboratory of Cyberspace Security Defense (SKLCSD), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
 
 [[**Email**](mailto:mbs2021@163.com)], [[**GitHub**](https://github.com/mbs0221)], [[**Google Scholar**](https://scholar.google.com/citations?user=zd0JSI8AAAAJ&hl=zh-CN)], [[**DBLP**](https://dblp1.uni-trier.de/pid/238/7713.html)], [[**ResearchGate**](https://www.researchgate.net/profile/Benshan-Mei)], [[**ORCID**](https://orcid.org/0000-0002-2637-0101)], [[**WoS**](https://webofscience.clarivate.cn/wos/author/record/MTA-4527-2025)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57205729009)], [[**LinkedIn**](https://www.linkedin.com/in/%E6%9C%AC%E5%B1%B1-%E6%A2%85-85148831b/)]    
 
