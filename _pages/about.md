@@ -34,7 +34,7 @@ I have a diverse technical background, starting with **Android and web developme
 
 ## Education
 
-- [2019.09-2025.06] Ph.D Student in Cybersecurity, State Key Laboratory of Cyberspace Security Defense (SKLCSD), Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)
+- [2019.09-2025.06] Ph.D Student in Cybersecurity, University of Chinese Academy of Sciences (UCAS)
   * Supervisor: [Prof. Dongdai Lin](https://people.ucas.ac.cn/~ddlin) and [Prof. Wenhao Wang](https://heartever.github.io/)
 - [2017.09-2019.06] M.S. in Computer Science and Technology, China Agricultural University (CAU)
   * Supervisor: [Prof. Yitian Xu](https://faculty.cau.edu.cn/xyt/)
