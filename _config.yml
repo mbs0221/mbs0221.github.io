@@ -193,7 +193,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - index.md # homepage is index.html; avoid stale dual home
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
