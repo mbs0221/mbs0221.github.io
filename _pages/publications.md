@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
+share: false
+related: false
 ---
 
 In recent years I have worked on top-tier venues in computer security and artificial intelligence.

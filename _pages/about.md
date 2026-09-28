@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 title: "About me"
 author_profile: true
+classes: wide
+share: false
+related: false
 redirect_from: 
   - "/wordpress/"
   - "/wordpress/index.html"
