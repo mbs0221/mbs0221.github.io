@@ -5,5 +5,40 @@ search: false
 
 @charset "utf-8";
 
+// Academic homepage typography.
+// Peer sites stay ~15–17px (e.g. Minimal Light / IPADS); MM defaults scale to ~19px on wide screens.
+$doc-font-size: 15px;
+$doc-font-size-medium: 15px;
+$doc-font-size-large: 15.5px;
+$doc-font-size-x-large: 16px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Slightly denser body copy for CV-style About / Publications pages
+.page__content {
+  line-height: 1.65;
+
+  p {
+    margin: 0 0 0.9em;
+  }
+
+  li {
+    margin-bottom: 0.25em;
+  }
+
+  h2 {
+    margin-top: 1.4em;
+    margin-bottom: 0.55em;
+    font-size: 1.25em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
+}
+
+.page__title {
+  font-size: 1.6em;
+  line-height: 1.25;
+}
